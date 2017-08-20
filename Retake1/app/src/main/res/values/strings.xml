@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retake1</string>
+    <string name="select_measurement">Select Measurement</string>
+    <string-array name="measurement_labels">
+
+        <item> Degrees </item>
+        <item> Farenheit</item>
+
+
+    </string-array>
+</resources>
